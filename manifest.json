@@ -1,0 +1,15 @@
+{  
+    "manifest_version": 2,
+
+    "name": "Dodge Block",
+    "description": "Dodge Block!",
+    "version": "1.0",
+    "browser_action": {
+     "default_icon": "icon.png",
+     "default_popup": "index.html",
+     "default-title": "Dodge Block"
+    },
+    "permissions": [
+     "activeTab"
+    ]
+}
